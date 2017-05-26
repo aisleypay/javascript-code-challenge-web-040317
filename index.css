@@ -1,0 +1,12 @@
+#comment-list {
+  border-style: double;
+  width: 500px;
+  border-color: purple;
+  border-radius: 20px;
+  border-width: thin;
+}
+
+input[type=text] {
+    border: 2px solid purple;
+    border-radius: 4px;
+}
